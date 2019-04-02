@@ -5,7 +5,7 @@ Multi-thread example of OS/2 Hello.
 * BSD 3-Clause
 
 ## COMPILE TOOLS
-* 
+* CL compiler
  
 ## AUTHORS
 * K&R
